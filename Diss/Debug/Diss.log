@@ -1,0 +1,22 @@
+﻿  NavigationGrid.cpp
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(51): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(54): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(135): warning C4018: '<=': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(319): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(320): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(322): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joebr\source\repos\diss\diss\navigationgrid.cpp(323): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Diss.vcxproj -> C:\Users\joebr\source\repos\Diss\Debug\Diss.exe
